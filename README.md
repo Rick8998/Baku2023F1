@@ -1,7 +1,7 @@
 # Baku2023F1
 Analisi dati weekend di F1 - Azerbaijan 2023
 ## Table of contents
-* [LapTimesDiff_Quali_SprintShootout] (https://github.com/Rick8998/Baku2023F1/blob/main/SessionsAnalysis/LapTimesDiff_Quali_SprintShootout.ipynb) Analisi dei miglioramenti/peggioramenti dei tempi fra qualifica per la gara e qualifica per la Sprint Race
+* [LapTimesDiff_Quali_SprintShootout](https://github.com/Rick8998/Baku2023F1/blob/main/SessionsAnalysis/LapTimesDiff_Quali_SprintShootout.ipynb) Analisi dei miglioramenti/peggioramenti dei tempi fra qualifica per la gara e qualifica per la Sprint Race
 * [drs_speed_comparison](https://github.com/Rick8998/Baku2023F1/blob/main/SessionsAnalysis/drs_speed_comparison.ipynb) Analisi differenze di velocità con DRS aperto e chiuso
 * [fp1](https://github.com/Rick8998/Baku2023F1/blob/main/SessionsAnalysis/fp1.ipynb) Analisi FP1
 * [gapToLeader](https://github.com/Rick8998/Baku2023F1/blob/main/SessionsAnalysis/gapToLeader.ipynb) Evoluzione del gap dal leader della gara
